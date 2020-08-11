@@ -1,0 +1,8 @@
+{
+    "name": "boucerate",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is each item in the ffirst portion",
+    "author": "Theoderic Onipe",
+    "main": "BounceRate.js"
+}

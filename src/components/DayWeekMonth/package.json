@@ -1,0 +1,8 @@
+{
+    "name": "dayweekmonth",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is the day week month tab menu in the graph portion",
+    "author": "Theoderic Onipe",
+    "main": "DayWeekMonth.js"
+}

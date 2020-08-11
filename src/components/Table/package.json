@@ -1,0 +1,8 @@
+{
+    "name": "tableitems",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is the table items",
+    "author": "Theoderic Onipe",
+    "main": "Table.js"
+}

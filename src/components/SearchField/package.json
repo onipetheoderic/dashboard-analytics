@@ -1,0 +1,8 @@
+{
+    "name": "searchfield",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is the search field menu",
+    "author": "Theoderic Onipe",
+    "main": "SearchField.js"
+}

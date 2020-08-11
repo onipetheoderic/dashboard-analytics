@@ -1,0 +1,8 @@
+{
+    "name": "adminlayout",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is the admin layout view",
+    "author": "Theoderic Onipe",
+    "main": "Admin.js"
+}

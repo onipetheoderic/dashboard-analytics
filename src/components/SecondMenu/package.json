@@ -1,0 +1,8 @@
+{
+    "name": "secondmenuitems",
+    "version": "0.0.1",
+    "private": true,
+    "description": "this is the second menus",
+    "author": "Theoderic Onipe",
+    "main": "SecondMenu.js"
+}
